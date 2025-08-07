@@ -7,7 +7,7 @@ class reversingAString{
         return ans;
     }
 }
-
+// string immutable hota hai java mein
 class reverse{
     public static void main(String args[]){
         reversingAString rs = new reversingAString();
