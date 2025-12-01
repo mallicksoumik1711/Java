@@ -12,6 +12,7 @@ class Dog extends Animal{
 class Main{
     public static void main(String args[]){
         Dog d = new Dog();
+        //creating the object of the dog class
         d.bark();
         d.makeSound();
     }
