@@ -8,7 +8,7 @@ class armstrong{
             ans += 1;
         }
         return ans;
-    }
+    }       
 
     static int isArmstrong(int n){
         int num = n;
