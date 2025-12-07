@@ -10,7 +10,7 @@ class armstrong{
         return ans;
     }       
 
-    static int isArmstrong(int n){
+    static int isArmstrong(int n){   
         int num = n;
         int sum = 0;
         while(n != 0){
