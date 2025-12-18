@@ -14,6 +14,10 @@ class Methodcomplete implements Describe, DoNot{
     public void dontDescribe(){
         System.out.println("Not describing");
     }
+
+    public void nmdefination1(){
+        System.out.println("normal method defination 1");
+    }
 }
 
 class Main{
