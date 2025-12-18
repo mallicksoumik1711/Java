@@ -7,7 +7,7 @@ interface DoNot{
 }
 
 class Methodcomplete implements Describe, DoNot{
-    public void cook(){
+    public void cook(){ 
         System.out.println("Cooking....");
     }
 
@@ -17,10 +17,6 @@ class Methodcomplete implements Describe, DoNot{
 
     public void nmdefination1(){
         System.out.println("normal method defination 1");
-    }
-
-    public void nmdefination2(){
-        System.out.println("normal method defination 2");
     }
 }
 
