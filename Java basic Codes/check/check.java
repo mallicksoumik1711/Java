@@ -12,6 +12,7 @@ class check{
             }
             else{
                 stch.add(s.charAt(i));
+                //i guess not optimal way to start
             }
         }
             String ans = "";
