@@ -16,5 +16,7 @@ class start{
     }
     public static void main(String args[]){
         System.out.println(binary(23));
+        // input in integer
+        // when string ??
     }
 }
